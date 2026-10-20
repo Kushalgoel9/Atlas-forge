@@ -1,5 +1,7 @@
 # Atlas Forge
 
+Live: https://kushalgoel9.github.io/Atlas-forge/
+
 A live WebGL showcase for the Copilot UI (Atlas) Figma kit, in the Classical look: ivory paper, one amber accent, Cormorant Garamond headlines, hairline icons.
 
 Every page is a **Forge variant**. Press `F` (or click the Forge button) to open the panel and change the layout, springs, copy, colour and scene of the page you are on. Nothing needs code. **Copy remix link** puts your changes in the URL so anyone who opens it sees the same remix; **Reset** clears them; **Export** saves the values as JSON.
