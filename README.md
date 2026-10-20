@@ -20,7 +20,7 @@ npm run build      # static site in dist/client
 npm run typecheck
 ```
 
-`npm run build:pages` builds with the `/atlas-forge/` base path for GitHub Pages. The workflow in `.github/workflows/pages.yml` deploys on every push to `main`.
+`npm run build:pages` builds with the `/Atlas-forge/` base path for GitHub Pages. The workflow in `.github/workflows/pages.yml` deploys on every push to `main`.
 
 ## Layout
 
